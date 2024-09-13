@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @MrLefty23
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in JavaScript/Now Unity
+- 🌱 I’m currently learning JavaScript/Scratch
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: he
+- 😄 Pronouns: 
 - ⚡ Fun fact: I  know 3 coding languages. 
 
 <!---
